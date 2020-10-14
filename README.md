@@ -1,5 +1,7 @@
 # appmeteo
 
+Cette app n'a pas encore de design, cependant l'app fonctionne
+
 ## Project setup
 ```
 npm install
